@@ -12,3 +12,5 @@ Student Registration form using HTML, CSS and Javascript
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
+
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/075756d264e04de37495feb2f99487d591de2355/Screenshots/Dashboard.jpg)
