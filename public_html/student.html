@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Registration</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" 
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+              <link rel="stylesheet" href="style.css" type="text/css"/>             
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <div class="form-holder"> 
+                <div class="form-items">
+                    <h2>Student Registration Form</h2>
+                    <form id="StudentForm" method="post">
+                        <div class="form-group">
+                            <span><label for="RollNo"></label>
+                                <label id="StudentIdMsg"></label></span>
+                                <input type="number" class="form-control" name="RollNo" id="RollNo"
+                                       placeholder="Enter Student Roll Number" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="StudentName"></label>
+                            <input type="text" class="form-control" id="StudentName" 
+                                   placeholder="Enter Student Name" name="StudentName">
+                        </div>
+                        <div class="form-group">
+                            <label for="Email"></label>
+                            <input type="email" class="form-control" id="Email"
+                                   placeholder="Enter Student Email" name="Email">
+                        </div>
+                        <div class="form-group">
+                            <label for="MobileNo"></label>
+                            <input type="number" class="form-control" id="MobileNo"
+                                   placeholder="Enter Student Mobile Number" name="MobileNo">
+                        </div>
+                        <input type="button" class="btn btn-primary" id="StudentSave" value="Save"
+                               onclick="saveStudent();">
+                    </form>
+                </div>
+            </div>
+        </div>     
+        <script src="student.js"></script>   
+    </body>
+</html>
