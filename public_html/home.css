@@ -11,34 +11,21 @@ url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;900&d
 
 html, body {
     height: 100%;
+    color: white;
     background-color: #152733;
+/*    For hiding scroller*/
     overflow: hidden;
 }
 
-.container .form-holder h2 {
-    color: #fff;
+/*.container h1 {
     text-align: left;
     font-size: 28px;
     font-weight: 600;
     margin-bottom: 5px;
-}
+}*/
 
-.form-holder h2 {
-    margin-bottom: 30px;
-}
-
-.form-holder {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      min-height: 100vh;
-      min-width: 540px;
-}
-
-/*Aligns in the middle table*/
-.form-holder .form-group {
+/*    Table Right side coulmn  */
+.form-items   {
     position: relative;
     text-align: center;
     display: -webkit-box;
@@ -53,21 +40,20 @@ html, body {
     padding: 10px;
 }
 
-.form-control {
-    border: 3px solid #fff;
-    padding: 25px;
-    display: inline-block;
-    width: 100%;
-    min-width: 450px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    text-align: left;
-    -webkit-transition: all 0.4s ease;
-    transition: all 0.4s ease;
-}
+/*    Hides Table column lines 
+*/.form-holder {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+/*      Table alignment*/
+      min-height: 40vh;
+      min-width: 540px;
+}/*
 
-.form-items {
+/*Aligns in the middle table*/
+/*.form-items {
     border: 3px solid #fff;
     padding: 40px;
     display: inline-block;
@@ -76,9 +62,13 @@ html, body {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    text-align: left;
+    text-align: center;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
+}*/
+
+a:not([href]) {
+  /* style a "disabled" link */
 }
 
 .btn-primary {
@@ -86,5 +76,10 @@ html, body {
 }
 
 .btn {
+
+}
+
+.links {
+    color: white;
 
 }

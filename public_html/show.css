@@ -1,0 +1,15 @@
+*, body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+/*    text-rendering: optimizeLegibility;*/
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+    height: 100%;
+    color: white;
+    background-color: #152733;
+/*    For hiding scroller*/
+    overflow: hidden;
+}
