@@ -15,6 +15,14 @@ Student Registration form using HTML, CSS and Javascript
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/075756d264e04de37495feb2f99487d591de2355/Screenshots/Dashboard.jpg)
 
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/VisualizeDatabase.jpg)
+
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Home.jpg)
+
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/StudentRegistration.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/VisualizeDatabase.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Delete.jpg)
+
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Show.jpg)
+
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Update.jpg)
