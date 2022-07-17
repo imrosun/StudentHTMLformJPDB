@@ -16,6 +16,14 @@ html, body {
 /*    For hiding scroller*/
     overflow: hidden;
 }
+/*div {
+  align-content: center;
+  background-color: lightgrey;
+  width: 300px;
+  border: 10px white;
+  padding: 50px;
+  margin: 20px;
+}*/
 
 /*.container h1 {
     text-align: left;
@@ -41,16 +49,16 @@ html, body {
 }
 
 /*    Hides Table column lines 
-*/.form-holder {
+.form-holder {
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       text-align: center;
-/*      Table alignment*/
+      Table alignment
       min-height: 40vh;
       min-width: 540px;
-}/*
+}
 
 /*Aligns in the middle table*/
 /*.form-items {

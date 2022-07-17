@@ -13,13 +13,13 @@ function updateData(){
     var token = "90939208|-31949288042559551|90939972";
     var dbname = "StudentForm";
     var relationName = "Student-Form";
-    var roll = parseInt(document.getElementById("RollNo").value);
-    var password = document.getElementById("password").value;
+    var RollNoVar = parseInt(document.getElementById("RollNo").value);
+    var MobileNoVar = document.getElementById("MobileNo").value;
 
     var jsonObj = {
-        Password : password
+        MobileNo : MobileNoVar
     };
-    var reqString = createUPDATERecordRequest(token, JSON.stringify(jsonObj), dbname, relationName, roll);
+    var reqString = createUPDATERecordRequest(token, JSON.stringify(jsonObj), dbname, relationName, RollNoVar);
     alert(reqString);
     jQuery.ajaxSetup({async: false});
     var resultObj = executeCommand(reqString,
