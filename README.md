@@ -11,6 +11,8 @@ Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
+##This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
+
 ### Screenshots:
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/9ee8588a107de2d3c13ce9a6a56b67ba3a6c6e54/Screenshots/Dashboard.jpg)
