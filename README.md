@@ -13,7 +13,7 @@ Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
 
 ### Screenshots:
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/075756d264e04de37495feb2f99487d591de2355/Screenshots/Dashboard.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/9ee8588a107de2d3c13ce9a6a56b67ba3a6c6e54/Screenshots/Dashboard.jpg)
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/VisualizeDatabase.jpg)
 
