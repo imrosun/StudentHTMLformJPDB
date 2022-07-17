@@ -15,14 +15,14 @@ Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/9ee8588a107de2d3c13ce9a6a56b67ba3a6c6e54/Screenshots/Dashboard.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/VisualizeDatabase.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/389946b10dc54df10502101477cd1b2dadd38e49/Screenshots/VisualizeDatabase.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Home.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/389946b10dc54df10502101477cd1b2dadd38e49/Screenshots/Home.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/262cd26abc945ccc6622c3858e3425cd175e91f9/Screenshots/StudentRegistration.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/01566842314a1c82e4384e0ed27470d46eeda66e/Screenshots/Register.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Delete.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/01566842314a1c82e4384e0ed27470d46eeda66e/Screenshots/Delete.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Show.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/01566842314a1c82e4384e0ed27470d46eeda66e/Screenshots/Show.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/1996d8955ea16ff48a55034ff861eaeb0c03252c/Screenshots/Update.jpg)
+![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/01566842314a1c82e4384e0ed27470d46eeda66e/Screenshots/Update.jpg)
