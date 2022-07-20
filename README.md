@@ -5,10 +5,11 @@ Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
 
 ## Languages and tools used
 <div>
-  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/html5-plain-wordmark.svg" title="HTML" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/css3-plain-wordmark.svg" title="CSS" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/javascript-original.svg" title="JavaScript" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/JasonPowerDB.png" title="Java" alt="JasonPowerDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/JasonPowerDB.png" title="
+JasonPowerDB" alt="JasonPowerDB" width="40" height="40"/>&nbsp;
   
 </div> 
 
