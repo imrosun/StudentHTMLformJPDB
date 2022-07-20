@@ -1,17 +1,16 @@
 # JasonPowerDB StudentHTMLformJPDB
 Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
 
-## This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
-
 ## Languages and tools used
 <div>
   <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/imrosun/StudentHTMLformJPDB/blob/main/icon/JasonPowerDB.png" title="
-JasonPowerDB" alt="JasonPowerDB" width="40" height="40"/>&nbsp;
-  
+JasonPowerDB" alt="JasonPowerDB" width="40" height="40"/>&nbsp;  
 </div> 
+
+## This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations.
 
 ### About JsonPowerDB:
 - JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
