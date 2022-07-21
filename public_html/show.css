@@ -13,3 +13,13 @@ html, body {
 /*    For hiding scroller*/
     overflow: hidden;
 }
+
+.button4 {
+    border: solid 2px rgb(85, 209, 182);
+}
+.button4:hover {
+    transition: ease-in 0.7s;
+    box-shadow: inset 300px 0 0 0 rgb(85, 209, 182);
+    cursor: pointer;
+    color: rgb(11, 11, 15);
+}

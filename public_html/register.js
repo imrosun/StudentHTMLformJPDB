@@ -51,6 +51,8 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
     return putRequest;
 }
 
+// This method is responsible to execute JPDB command on the given dbBaseUrl
+// and return response to the caller.
 function executeCommand(reqString, dbBaseUrl, apiEndPointUrl) {
     var url = dbBaseUrl + apiEndPointUrl;
     var jsonObj;

@@ -17,10 +17,28 @@ html, body {
     overflow: hidden;
 }
 
-.btn-primary {
-
+.button2 {
+    border: solid 2px rgb(85, 209, 182);
 }
 
-.btn {
+.button2:hover {
+    transition: ease-in 0.7s;
+    box-shadow: inset 300px 0 0 0 rgb(85, 209, 182);
+    cursor: pointer;
+    color: rgb(11, 11, 15);
+}
 
+.button4  {
+    border: 2px solid aqua;
+}
+
+.button4:hover {
+    cursor: pointer;
+    background: transparent;
+    color: aqua;
+    
+    box-shadow: 0 0 5px #03e9f4,
+                0 0 25px #03e9f4,
+                0 0 50px #03e9f4,
+                0 0 100px #03e9f4;
 }
