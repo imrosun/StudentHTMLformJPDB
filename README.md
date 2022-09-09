@@ -1,5 +1,5 @@
 # JasonPowerDB StudentHTMLformJPDB
-Student Registration form using HTML, CSS, Javascript and **JasonPowerDB**
+Student Registration form using HTML, CSS, JavaScript and **JasonPowerDB**
 
 ## Languages and tools used
 <div>
