@@ -28,7 +28,7 @@ JasonPowerDB" alt="JasonPowerDB" width="40" height="40"/>&nbsp;
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/389946b10dc54df10502101477cd1b2dadd38e49/Screenshots/VisualizeDatabase.jpg)
 
-![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/d006251ef2ce4380e442b57babbd32797c92aaf2/Screenshots/Home.jpg)
+![Dashboard](Screenshots/Home1.png)
 
 ![Dashboard](https://github.com/imrosun/StudentHTMLformJPDB/blob/01566842314a1c82e4384e0ed27470d46eeda66e/Screenshots/Register.jpg)
 
